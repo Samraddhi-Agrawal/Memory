@@ -2,8 +2,6 @@
 
 A fun and interactive **Memory Matching Game** built with HTML, CSS, and JavaScript. Test your memory skills by flipping cards and matching all the pairs in the least number of moves!
 
-![Memory Game Screenshot](screenshot.png) <!-- Replace with your actual image path -->
-
 ---
 
 ## 🚀 Features
